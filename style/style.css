@@ -1,0 +1,90 @@
+body{
+    font-family: "Merriweather Sans";
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-family: "Inter", serif;
+}
+header{ 
+    background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(../image/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+margin: ;
+text-align: center;
+color: white;
+border-radius: 16px;
+height: 600px;
+font-family: "Merriweather Sans";
+}
+.happy-new-year{
+padding-top:177px ;
+text-align: center;
+font-size: 32px;
+font-weight: 400;
+margin: 0px;
+font-family: "Merriweather Sans";
+}
+.party{
+  color: #FFF;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+margin: 0px;
+font-family: "Merriweather Sans";
+}
+body{
+   
+}
+.firstsection{
+  
+}
+.off{
+  margin-top: 50px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: #F00;
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+}
+.holiday{
+text-align: center;
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin: 0px;
+}
+.categories{
+  text-align: center;
+  color: #070211;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+margin: 0px;
+
+}
+.happy-new-year-2{
+ padding-top: 30px;
+ text-align: center;
+}
+.midnight-pic{
+  background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../image/Vectorrr.png);
+  height: 680px;
+  
+  background-repeat: no-repeat;
+  background-size:100%;
+  margin-top: 100px;
+  
+}
+.party-year{
+  height: 100px;
+  width: 700px;
+ 
+  padding: 0px;
+}
+.party-year-div{
+ text-align: center;
+ 
+}
