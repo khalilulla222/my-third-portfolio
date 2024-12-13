@@ -197,3 +197,71 @@ a{
 .best-gift{
   margin-top:120px ;
 }
+.subscribe{
+  border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+margin-top: 120px;
+height: 616px;
+text-align: center;
+}
+.Group61{
+  padding-top: 80px;
+}
+.Subscribe-Newsletter{
+  
+}
+
+.subscribe-container{
+  display: flex;
+  align-items: center;
+  border-radius: 30px;
+  overflow: hidden;
+  background: white;
+ box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ margin: 0px 340px;
+
+}
+.subscribe-container input {
+  border: none;
+  outline: none;
+  padding: 20px 20px;
+  flex: 1;
+  font-size: 16px;
+  border-radius: ;
+ 
+  
+}
+.subscribe-container button {
+  background-color: red;
+  color: white;
+  border: none;
+  outline: none;
+  padding: 20px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 0 30px 30px 0;
+  transition: background-color 0.3s ease;
+
+}
+.subscribe-container button:hover {
+  background-color: #cc0000; /* Darker red for hover */
+}
+footer{
+  background: #070211;
+  margin-top: 120px;
+  color: #FFF;
+  border-radius: 16px;
+
+}
+.first-footer , .last-footer{
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 130px;
+  font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+  
+}
+.footer-image{
+  text-align: center;
+}
