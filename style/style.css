@@ -8,7 +8,7 @@ body{
 header{ 
     background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url(../image/Banner\ Image.png);
     background-repeat: no-repeat;
-    background-position: center;
+    
     background-size: 100%;
 margin: ;
 text-align: center;
@@ -28,7 +28,7 @@ font-family: "Merriweather Sans";
 .party{
   color: #FFF;
 text-align: center;
-font-size: 72px;
+font-size: 80px;
 font-weight: 900;
 margin: 0px;
 font-family: "Merriweather Sans";
