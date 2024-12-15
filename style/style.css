@@ -19,6 +19,9 @@ border-radius: 16px;
 height: 690px;
 font-family: "Merriweather Sans";
 }
+.header{
+  
+}
 .happy-new-year{
 padding-top:10px ;
 font-size: 32px;
@@ -34,12 +37,7 @@ font-weight: 900;
 margin: 0px;
 font-family: "Merriweather Sans";
 }
-body{
-   
-}
-.firstsection{
-  
-}
+
 .off{
   margin-top: 50px;
   margin-bottom: 0px;
